@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=87CEEB&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Backend-Focused+Engineer;Node.js+%7C+Express+%7C+Databases;React+%7C+Next.js+Integration;Building+Scalable+Web+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=87CEEB&center=true&vCenter=true&width=750&lines=Hello+I+am+Vaishnavi+!!;Full+Stack+Developer;Backend-Focused+Engineer;Node.js+%7C+Express+%7C+Databases;React+%7C+Next.js+Integration;Building+Scalable+Web+Systems" />
 </p>
 
 ---
