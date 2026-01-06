@@ -75,5 +75,5 @@ I enjoy designing **APIs, databases, and scalable server-side systems**, while a
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/vaishnavi-j-k-47656a2b9)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/vaishnavi-j-k-47656a2b9/)
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:upadyayavaishnavi10@gmail.com)
