@@ -60,30 +60,20 @@ I enjoy designing **APIs, databases, and scalable server-side systems**, while a
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://ghproxy.com/https://github-readme-stats.vercel.app/api?username=VaishnavIUpadyaya&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
-  <img src="https://ghproxy.com/https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnavIUpadyaya&layout=compact&theme=github_dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VaishnavIUpadyaya&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://ghproxy.com/https://streak-stats.demolab.com?user=VaishnavIUpadyaya&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VaishnavIUpadyaya&layout=compact&theme=dark&hide_border=true" />
 </p>
 
+
 ---
-
-## 📂 Projects
-
-All my repositories showcase:
-- Backend-heavy logic
-- Full stack applications
-- API-driven systems
-- Clean and structured code
-
 ⬇️ Scroll down to see **pinned and popular repositories**
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)](https://www.instagram.com/)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/vaishnavi-j-k-47656a2b9)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:upadyayavaishnavi10@gmail.com)
