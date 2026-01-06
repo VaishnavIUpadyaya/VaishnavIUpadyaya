@@ -59,13 +59,10 @@ I enjoy designing **APIs, databases, and scalable server-side systems**, while a
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VaishnavIUpadyaya&show_icons=true&theme=dark&hide_border=true" />
-</p>
+![Commits](https://img.shields.io/badge/Commits-Active-brightgreen)
+![Focus](https://img.shields.io/badge/Focus-Backend-blue)
+![Stack](https://img.shields.io/badge/Role-Full%20Stack-orange)
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VaishnavIUpadyaya&layout=compact&theme=dark&hide_border=true" />
-</p>
 
 
 ---
